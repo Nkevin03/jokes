@@ -1,0 +1,3 @@
+<footer>
+    Caprette tibetane
+</footer>
